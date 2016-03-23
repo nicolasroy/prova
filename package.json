@@ -14,7 +14,7 @@
     "browserify": "^6.2.0",
     "component-delegate": "^0.2.3",
     "concat-stream": "^1.4.4",
-    "default-debug": "0.0.0",
+    "default-debug": "azer/default-debug",
     "dom-classes": "azer/dom-classes",
     "dom-event": "azer/dom-event",
     "dom-select": "azer/dom-select",
