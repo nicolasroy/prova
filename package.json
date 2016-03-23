@@ -15,7 +15,7 @@
     "component-delegate": "^0.2.3",
     "concat-stream": "^1.4.4",
     "default-debug": "0.0.0",
-    "dom-classes": "0.0.1",
+    "dom-classes": "azer/dom-classes",
     "dom-event": "0.0.1",
     "dom-select": "0.0.0",
     "dom-style": "0.0.3",
