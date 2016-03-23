@@ -30,7 +30,6 @@
     "is-node": "azer/is-node",
     "key-event": "nicolasroy/key-event",
     "left-pad": "azer/left-pad",
-    "local-debug": "azer/local-debug",
     "mime": "^1.2.11",
     "new-command": "nicolasroy/new-command",
     "prettify-error": "nicolasroy/prettify-error",
